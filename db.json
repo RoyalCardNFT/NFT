@@ -34,6 +34,14 @@
     "external_url": "https://github.com/RoyalCardNFT/NFT/raw/main/IndoPrideLogo.jpg",
     "image": "https://github.com/RoyalCardNFT/NFT/raw/main/IndoPrideLogo.jpg",
     "name": "Indo Pride Logo NFT"
+  },
+        
+  {
+    "id": 5,
+    "description": "Lunar New Year",
+    "external_url": "https://raw.githubusercontent.com/RoyalCardNFT/NFT/main/Lunar1.png",
+    "image": "https://raw.githubusercontent.com/RoyalCardNFT/NFT/main/Lunar1.png",
+    "name": "Elemon Lunar New Year NFT"
   }
 ]
 }
