@@ -42,6 +42,13 @@
     "external_url": "https://raw.githubusercontent.com/RoyalCardNFT/NFT/main/Lunar1.png",
     "image": "https://raw.githubusercontent.com/RoyalCardNFT/NFT/main/Lunar1.png",
     "name": "Elemon Lunar New Year NFT"
+  },
+   {
+    "id": 6,
+    "description": "MEET LEGOLAS – THE AUDACIOUS ORCA RAN AXTER",
+    "external_url": "https://raw.githubusercontent.com/RoyalCardNFT/NFT/main/legolas.png",
+    "image": "https://raw.githubusercontent.com/RoyalCardNFT/NFT/main/legolas.png",
+    "name": "LEGOLAS"
   }
 ]
 }
