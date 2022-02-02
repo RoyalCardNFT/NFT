@@ -49,6 +49,13 @@
     "external_url": "https://raw.githubusercontent.com/RoyalCardNFT/NFT/main/legolas.png",
     "image": "https://raw.githubusercontent.com/RoyalCardNFT/NFT/main/legolas.png",
     "name": "LEGOLAS"
+  },
+        {
+    "id": 7,
+    "description": "Corsair Lord",
+    "external_url": "https://raw.githubusercontent.com/RoyalCardNFT/NFT/main/corsairlord.png",
+    "image": "https://raw.githubusercontent.com/RoyalCardNFT/NFT/main/corsairlord.png",
+    "name": "CORSAIR LORD"
   }
 ]
 }
